@@ -23,4 +23,4 @@ I have made this project using `position` only and got to know more about all th
 - `3 hours`
 
 ## Live link of project
- - [PROJECT 2]()
+ - [PROJECT 2](https://tempproject2.netlify.app/)
